@@ -1,0 +1,373 @@
+.body{
+    max-width: 1440px;
+    margin: 0 auto ;
+ }
+ .head1{
+     display: flex;
+     flex-wrap: wrap;
+ }
+ .logo1{
+     width: 62px;
+     height: 62px;
+     margin-right: 8px;
+ }
+ .icon{
+     width: 62px;
+     height: 62px;
+     
+     display: none;
+ }
+ .head2{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     gap: 50px;
+ }
+ .school{
+     font: bold;
+     font-size: 2rem;
+ }
+ .home{
+     font: bold;
+     font-size: 1.25rem;
+     color: #FEA301;
+ }
+ .about{
+     font: bold;
+     font-size: 1.25rem;
+     color:#01ACFD;
+ }
+ .facilitirs{
+     font: bold;
+     font-size: 1.25rem;
+     color:#05D4DF;
+ }
+ .admission{
+     font: bold;
+     font-size: 1.25rem;
+     color: #5D58EF;
+ }
+ .contant{
+     width: 197px;
+     height: 50px;
+     background-color: #FEA301;
+     font: 600;
+     font-size: 1.25rem;
+     color: #FFFFFF;
+     border-radius: 12px;
+     border: none;
+ }
+ .head{
+     width: 100%;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     align-items: center;
+ }
+ .text{
+     width: 45%;
+     height: auto;
+ }
+ .main-head{
+     font: bold;
+     font-size: 4.13rem;
+    margin-top: 30px;
+ }
+ .emprowering{
+     color: #FEA301;
+ }
+ .student{
+     color: #01ACFD;
+ }
+ .with{
+     font-size: 1.25rem;
+     width: 100%;
+     
+ }
+ .enroll{
+     width: 250px;
+     background-color: black;
+     font-size: 1.25rem;
+     font: bold;
+     color: #FFFFFF;
+     padding: 10px 47px;
+     border-radius: 12px;
+ }
+ .main{ 
+     width: 100%;   
+     height: auto;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+     margin: 0 auto;
+     gap: 50px;
+ }
+ .h1{
+     font: bold;
+     font-size: 2.88rem;
+ }
+ .h2{
+     font: bold;
+     font-size: 1.55rem;
+ 
+ }
+ .p2{
+     font: 500px;
+     font-size: 1rem;
+     color: #808080;
+ }
+ .img{
+ 
+ }
+ .img2{
+     width: 136px;
+     height: 136px;
+ }
+ .information{    
+     width: 400px;
+     height: 400px;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-evenly;
+     align-items: center;
+     text-align: center;
+     border-radius: 18px;
+ }
+ .medil{
+     background-image: url(assets/bg.png);
+     background-repeat: no-repeat;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+ }
+ .kids{
+     display: flex;
+     margin-top: 80px;
+     gap: 30px;
+ }
+ .gradian{
+     background: linear-gradient(180deg, #DDF2FB 5%, #FFFFFF 100%, #FFFFFF 100%);    
+ }
+ .gradian2{
+     background: linear-gradient(180deg, #FEF5E1 5%, #FFFFFF 100%, #FFFFFF 100%);    
+ 
+ }
+ .gradian3{
+     background: linear-gradient(180deg, #EADFF9 5%, #FFFFFF 100%, #FFFFFF 100%);    
+ 
+ }
+ .arrow-img{
+     width: 18px;
+     height: 18px;
+     border-radius: 50%;
+     padding: 25px;
+     background-color: burlywood;
+ }
+ .arrow{
+     display: flex;
+     justify-content: center;
+     gap: 5px;
+     margin-top: 80px;
+     margin-bottom: 60px;
+ 
+ }
+ .our-storis{
+     font: bold;
+     font-size: 2.88rem;
+ }
+ .story-img{
+     width: 100%;
+     height: 60%;
+     border-radius: 16px 16px 0px 0px;
+ }
+ .a-fan{
+     width: 500px ;
+     font: bold;
+     font-size: 2.13rem;
+     margin-top: 58px;
+     margin-left: 0px;
+     padding-left: 30px;    
+ }
+ .a-fan2{
+     padding-top: 30px;
+     margin-left: 15px;
+ }
+ .story{
+     width: 600px;
+     height: 715px;
+     border-radius: 16px;
+     background-color: #FFFFFF;
+ }
+ .story2{
+     width: 280px;
+     height: 345px;
+     border-radius: 16px;
+     background-color: #FFFFFF;
+ }
+ .november1{
+     width: 160px;
+     height: 33px;
+     border-radius: 47px;
+     border: none;
+     background-color: #95B226;
+     font: 500px;
+     font-size: 1rem;
+     color: #FFFFFF;
+     margin-left: 15px;
+     transform: translateY(-130px);
+ }
+ .november2{
+     width: 160px;
+     height: 33px;
+     border-radius: 47px;
+     border: none;
+     background-color: #5D58F0;
+     font: 500px;
+     font-size: 1rem;
+     color: #FFFFFF;
+     margin-left: 15px;
+     transform: translateY(-130px);     
+ }
+ .beautyful{
+     font: 500px;
+     font-size: 1rem;
+     color: #666666;
+     margin-left: 30px;
+ }
+ .november{
+     width: 174.51px;
+     height: 48px;
+     border-radius: 46px;
+     margin-left: 30px;
+     border: none;
+     background-color: #3CD8E8;
+     font: 500px;
+     font-size: 1rem;
+     color: #FFFFFF;
+     transform: translateY(-250px);
+ }
+ .last-img{
+     display: grid;
+     grid-template-columns: repeat(2,1fr);
+     gap: 20px;    
+     border-radius: 16px;
+ }
+ .view{
+      width: 197px;
+      height: 50px;
+      border-radius: 12px;
+      background-color: black;
+      font: bold;
+      font-size: 1.25rem;
+      color: #FFFFFF;
+      margin-top: 80px;
+      margin-bottom: 60px;
+ }
+ .charity{
+     display: flex;
+     gap: 30px;
+ }
+ .last{    
+     background: url(assets/bg.png), linear-gradient(0deg, #FEF5E1 9%, #FFFFFF 100%); 
+     
+     width: 100%;
+     height: auto;    
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;    
+     margin: 0 auto;
+ }
+ .logo-img{
+     width: 82px;
+     height: 85px;
+ }
+ .education{
+     font: bold;
+     font-size: 2.68rem;
+     color: #FFFFFF;
+     padding: 0px;
+     margin: 0px;
+ }
+ .footer1{
+     display: flex;
+     align-items: center;
+ }
+ .descript{
+     font-size: 1.25rem;
+     color: #FFFFFF;
+ }
+ .footer-part1{
+     width: 350px;
+     height: auto;
+     margin-bottom: 30px;
+ 
+ }
+ .about-school{
+     font: bold;
+     color: #FFFFFF;
+ }
+ .home{
+     color: #FFFFFF;
+ }
+ .footer{        
+     display: grid;
+     grid-template-columns: repeat(3,1fr);
+     padding-left: 40px;
+     padding-top: 40px;   
+ }
+ .finished{
+ 
+    width: 100%;    
+    background-color: #3CD8E8;
+    margin: auto;
+ }
+ @media screen and (max-width: 900px) {
+     .icon{
+         display: block;
+     }  
+   .school{
+     display: none;
+   }
+   .head2{
+     display: none;
+   }
+   .head3{
+     display: none;
+   } 
+   .head{
+     
+     height: 100px;
+     border-bottom: 2px solid #FEA301;
+ } 
+ .img{
+     height: auto;
+     width: 100%;
+ } 
+ .text{
+     height: auto;
+   width: 100%;
+   text-align: center;
+ } 
+   .main{
+     flex-direction: column-reverse;
+     padding-top: 150px;
+     justify-content: center;
+ }
+ .medil{
+     gap: 20px;
+ } 
+ .kids{
+     flex-direction: column;
+ }
+ .story{
+     display: none;
+ }
+ .footer{
+     grid-template-columns: repeat(1, 1fr);
+     justify-content: center;
+ }
+ }
+ 
